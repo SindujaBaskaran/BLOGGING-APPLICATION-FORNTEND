@@ -1,0 +1,1 @@
+export const API = "https://blogging-application-backend-six.vercel.app"
